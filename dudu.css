@@ -1,0 +1,63 @@
+header h1 {
+background-color: white;
+text-align: center;
+color: orange;
+font-size: 40px;
+padding: 10px;
+}
+
+.Maria {
+    background-color: brown;
+    text-align: center;
+    padding: 0%;
+    
+}
+.Lafa {
+    background-color: rgb(245, 106, 8);
+    color: white;
+    text-align: center;
+    font-size: 20px;
+}
+
+section h3 {
+    color: white;
+    font-size: 40px;
+    text-align: center;
+
+}
+.Adolfo {
+    color: brown;
+    font-size: 100px;
+    text-align: center;
+    padding: 0%;
+}
+.LIVIA {
+    text-align: center;
+    background-color: rgb(245, 105, 5);
+}
+.irineu {
+    color: white;
+    background-color: brown;
+    font-size: 40px;
+    text-align: center;
+    height:auto
+}
+section h4 {
+    color: white;
+}
+
+section h5 {
+    font-size: 40px;
+    color: gray;
+    background-color: white;
+    text-align: center;
+}
+.giulia {
+    font-weight: bold;
+    font-size: 20px;
+    height: auto;
+
+}
+section img {
+    height: auto;
+}
