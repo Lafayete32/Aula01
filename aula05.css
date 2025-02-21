@@ -1,0 +1,43 @@
+header {
+    background-color: blue;/*cor do fundo do cabeçalho*/
+    text-align: center; /*alinhamento do texto*/
+    color: blueviolet;/*tag para mudar cor do texto*/
+    padding: 25px; /*tamanho,preemchimento da fonte*/
+}
+
+footer {
+    background-color: aliceblue;
+    text-align: center;
+    color: brown;
+    padding: 25px;
+    
+}
+header h1 {
+    color: brown; /*SEMPRE COR DA LETRA*/
+    font-size: 30px;/*SEMPRE PARA TAMANHO DAS LETRAS*/
+}
+
+footer p {
+    color: blue; /*cor da letra*/
+    font-size: 30px; /*tamanho da letra*/
+}
+
+
+.joaquim {
+    padding: 30px;
+    background-color: gray;
+}
+
+.joao {
+    padding: 30px;
+    background-color: gold;
+}
+
+.adolfo {
+    padding: 30px;
+    color: red;
+}
+
+footer .primeironome {
+    color: blueviolet;
+}
